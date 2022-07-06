@@ -5,7 +5,8 @@ The codes are available in Pytorch in order to use gpu accelerating computations
 
 
 ```
-Feedback alignment with weight normalization can provide a biologically plausible mechanism for learning. Alireza RahmanSetayesh, Ali Ghazizadeh, Farokh Marvasti.
+Feedback alignment with weight normalization can provide a biologically plausible mechanism for learning.
+Alireza RahmanSetayesh, Ali Ghazizadeh, Farokh Marvasti, 2021.
 
 ```
 
