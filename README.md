@@ -4,5 +4,11 @@ This repo containts the final project of advanced neuroscience instructed by Dr.
 The codes are available in Pytorch in order to use gpu accelerating computations. None of Pytorch's automatic neural network libraries are used.
 
 
+```
+Feedback alignment with weight normalization can provide a biologically plausible mechanism for learning. Alireza RahmanSetayesh, Ali Ghazizadeh, Farokh Marvasti.
+
+```
+
+
 
 
